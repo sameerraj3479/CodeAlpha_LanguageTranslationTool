@@ -21,7 +21,7 @@ An AI-powered language translation application built using Python and Streamlit.
 ## Project Structure
 
 ```text
-CodeAlpha_LanguageTranslationTool/
+LanguageTranslationTool/
 │
 ├── app.py
 ├── requirements.txt
@@ -39,7 +39,7 @@ CodeAlpha_LanguageTranslationTool/
 Navigate to the project directory:
 
 ```bash
-cd CodeAlpha_LanguageTranslationTool
+cd LanguageTranslationTool
 ```
 
 Install dependencies:
@@ -73,4 +73,4 @@ streamlit run app.py
 
 ## Internship Project
 
-This project was developed as part of the CodeAlpha Artificial Intelligence Internship Program.
+This project was developed as part of the Artificial Intelligence Internship Program.
